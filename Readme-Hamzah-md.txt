@@ -18,3 +18,6 @@ container cause  there is, where you render the view for the user
 For the backend I have used Node,Express,Mongodb cause itsmuch faster
 cause there is no relation involvedin it...And for the real time projects 
 Node ismuch Faster....REST Api's arealso used just to  send and fetch data
+Backend is based on MVC pattern...
+Controller is the entry point of  the application
+Modals have the  database  schema 
